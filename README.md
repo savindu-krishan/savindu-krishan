@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Savindu Krishan
 
-<!--
-**savindu-krishan/savindu-krishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer & AI Solutions Builder  
+Founder of **LankaTech Innovations (Private) Limited**
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- React, Next.js, JavaScript
+- Node.js, Express
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Do
+- Website Development & Bug Fixing
+- AI Photo & Video Editing
+- Creative Digital Solutions
+
+## 📫 Contact
+Email: krishansavindu923@gmail.com  
+WhatsApp: +94 70 527 8929
+
+⭐ Open for freelance & collaborations
